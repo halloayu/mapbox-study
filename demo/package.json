@@ -11,7 +11,8 @@
     "core-js": "^3.6.5",
     "element-ui": "^2.15.14",
     "mapbox-gl": "2.15.0",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "@mapbox/mapbox-gl-language": "^1.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.13",

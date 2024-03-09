@@ -17,7 +17,7 @@ export default {
 
 <style>
 #app {
-  height: calc(100vh - 6px);
+  height: 100vh;
   width: 100%;
 }
 
@@ -27,6 +27,6 @@ body {
 }
 
 .mapboxgl-control-container {
-  display: none;
+  /* display: none; */
 }
 </style>
