@@ -19,7 +19,7 @@ export default {
     },
 
     mounted() {
-        this.$mapboxgl.accessToken = 'pk.eyJ1IjoiYXl1MjM4OSIsImEiOiJjbGU2dTJtc2IwOHplM3JtcnljODZqNWszIn0.iszjybKhsIp0AYyfu8sQmg'
+        this.$mapboxgl.accessToken = 'pk.eyJ1IjoiZ3VvbGl1eWFuZyIsImEiOiJjajJtMmFncmQwMHFhMzNydGF6ZGduN2h0In0.imqOkUMERwvj77jk5bcJaQ'
         const map = new this.$mapboxgl.Map({
             container: 'map',
             style: 'mapbox://styles/ayu2389/cllg9ei1o00ip01pw391qe0i9',
